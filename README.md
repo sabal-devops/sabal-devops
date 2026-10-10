@@ -1,6 +1,6 @@
 # Ciao, sono Lorenzo 👋
 
-Costruisco strumenti e prodotti software sotto l'organizzazione [doppiaelle](https://github.com/doppiaelle).
+Costruisco strumenti e prodotti software sotto l'organizzazione [DoubleL](https://github.com/doppiaelle).
 
 ## Progetti pubblici
 
