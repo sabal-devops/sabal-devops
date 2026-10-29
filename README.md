@@ -6,17 +6,14 @@
 
 ---
 
-### 🚀 Live products
+### 🧪 Public projects
 
-- **[Brief2Done](https://brief2done.doppiaelletech.workers.dev/)**: a workspace for finding projects, agreeing on terms and managing delivery. [Product page ↗](https://doppiaelle.github.io/marketing-advertising/brief2done/)
-- **[feeddy](https://feeddy-dev.duckdns.org/)**: content planning, social media workflows and AI-assisted tools. [Product page ↗](https://doppiaelle.github.io/marketing-advertising/feeddy/)
-- **[GitGram](https://gitgram.doppiaelletech.workers.dev/)**: GitHub-connected collaboration, real-time chat and project activity.
+- **[Focus](https://github.com/doppiaelle/focus)**: NODO, a smart personal hub (PWA).
+- **[Airboard](https://github.com/doppiaelle/airboard)**
+- **[Kritoma Utility](https://github.com/doppiaelle/Utility)**: card and playmat editor for trading card games, with print-ready PDF export.
+- **[DoubleL product pages](https://github.com/doppiaelle/marketing-advertising)**: static site on Cloudflare Workers.
 
-### 🛠️ In development
-
-- **[LL Platform](https://doppiaelle.github.io/marketing-advertising/ll-platform/)**: multi-tenant infrastructure orchestration built around Kubernetes, AWX and Ansible.
-- **[SecuRA](https://doppiaelle.github.io/marketing-advertising/secura/)**: self-hosted vulnerability management and remediation tracking.
-- **[Kritoma](https://doppiaelle.github.io/marketing-advertising/kritoma/)**: an independent trading card game, with digital card design tools and an online play system.
+More projects are in the works.
 
 ### ⚙️ Tech
 
